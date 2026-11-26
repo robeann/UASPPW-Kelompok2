@@ -54,7 +54,6 @@ git clone https://github.com/robeann/UASPPW-Kelompok2.git
 cd UASPPW-Kelompok2
 ```
 
-Jika repositori bersifat private, pastikan akun GitHub-mu sudah diundang sebagai collaborator dan sudah login di Git.
 
 ### 2. Pasang dependensi
 
